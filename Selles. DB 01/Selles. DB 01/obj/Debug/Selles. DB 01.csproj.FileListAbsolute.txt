@@ -1,0 +1,15 @@
+C:\Users\victor\source\repos\Selles. DB 01\Selles. DB 01\obj\Debug\Selles. DB 01.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\Selles. DB 01\Selles. DB 01\obj\Debug\MainWindow.g.cs
+C:\Users\victor\source\repos\Selles. DB 01\Selles. DB 01\obj\Debug\App.g.cs
+C:\Users\victor\source\repos\Selles. DB 01\Selles. DB 01\obj\Debug\Selles.DB_01_MarkupCompile.cache
+C:\Users\victor\source\repos\Selles. DB 01\Selles. DB 01\obj\Debug\Selles.DB_01_MarkupCompile.lref
+C:\Users\victor\source\repos\Selles. DB 01\Selles. DB 01\bin\Debug\Selles.DB_01.exe.config
+C:\Users\victor\source\repos\Selles. DB 01\Selles. DB 01\bin\Debug\Selles.DB_01.exe
+C:\Users\victor\source\repos\Selles. DB 01\Selles. DB 01\bin\Debug\Selles.DB_01.pdb
+C:\Users\victor\source\repos\Selles. DB 01\Selles. DB 01\obj\Debug\MainWindow.baml
+C:\Users\victor\source\repos\Selles. DB 01\Selles. DB 01\obj\Debug\Selles.DB_01.g.resources
+C:\Users\victor\source\repos\Selles. DB 01\Selles. DB 01\obj\Debug\Selles.DB_01.Properties.Resources.resources
+C:\Users\victor\source\repos\Selles. DB 01\Selles. DB 01\obj\Debug\Selles. DB 01.csproj.GenerateResource.cache
+C:\Users\victor\source\repos\Selles. DB 01\Selles. DB 01\obj\Debug\Selles. DB 01.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Selles. DB 01\Selles. DB 01\obj\Debug\Selles.DB_01.exe
+C:\Users\victor\source\repos\Selles. DB 01\Selles. DB 01\obj\Debug\Selles.DB_01.pdb

@@ -1,0 +1,22 @@
+C:\Users\victor\source\repos\Code First. Music Collection\Code First. Music Collection\bin\Debug\Code_First.Music_Collection.exe.config
+C:\Users\victor\source\repos\Code First. Music Collection\Code First. Music Collection\bin\Debug\Code_First.Music_Collection.exe
+C:\Users\victor\source\repos\Code First. Music Collection\Code First. Music Collection\bin\Debug\Code_First.Music_Collection.pdb
+C:\Users\victor\source\repos\Code First. Music Collection\Code First. Music Collection\bin\Debug\EntityFramework.dll
+C:\Users\victor\source\repos\Code First. Music Collection\Code First. Music Collection\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\victor\source\repos\Code First. Music Collection\Code First. Music Collection\bin\Debug\EntityFramework.xml
+C:\Users\victor\source\repos\Code First. Music Collection\Code First. Music Collection\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\victor\source\repos\Code First. Music Collection\Code First. Music Collection\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\victor\source\repos\Code First. Music Collection\Code First. Music Collection\obj\Debug\Code First. Music Collection.csproj.AssemblyReference.cache
+C:\Users\victor\source\repos\Code First. Music Collection\Code First. Music Collection\obj\Debug\MainWindow.g.cs
+C:\Users\victor\source\repos\Code First. Music Collection\Code First. Music Collection\obj\Debug\App.g.cs
+C:\Users\victor\source\repos\Code First. Music Collection\Code First. Music Collection\obj\Debug\Code_First.Music_Collection_MarkupCompile.cache
+C:\Users\victor\source\repos\Code First. Music Collection\Code First. Music Collection\obj\Debug\Code_First.Music_Collection_MarkupCompile.lref
+C:\Users\victor\source\repos\Code First. Music Collection\Code First. Music Collection\obj\Debug\MainWindow.baml
+C:\Users\victor\source\repos\Code First. Music Collection\Code First. Music Collection\obj\Debug\Code_First.Music_Collection.g.resources
+C:\Users\victor\source\repos\Code First. Music Collection\Code First. Music Collection\obj\Debug\Code_First.Music_Collection.Properties.Resources.resources
+C:\Users\victor\source\repos\Code First. Music Collection\Code First. Music Collection\obj\Debug\Code First. Music Collection.csproj.GenerateResource.cache
+C:\Users\victor\source\repos\Code First. Music Collection\Code First. Music Collection\obj\Debug\Code First. Music Collection.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Code First. Music Collection\Code First. Music Collection\obj\Debug\Code First. Music Collection.csproj.CopyComplete
+C:\Users\victor\source\repos\Code First. Music Collection\Code First. Music Collection\obj\Debug\Code_First.Music_Collection.exe
+C:\Users\victor\source\repos\Code First. Music Collection\Code First. Music Collection\obj\Debug\Code_First.Music_Collection.pdb
+C:\Users\victor\source\repos\Code First. Music Collection\Code First. Music Collection\obj\Debug\Code_First.Music_Collection.Migrations.Update.resources

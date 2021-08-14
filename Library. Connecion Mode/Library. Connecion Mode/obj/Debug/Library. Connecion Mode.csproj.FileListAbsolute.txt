@@ -1,0 +1,7 @@
+C:\Users\victor\source\repos\Library. Connecion Mode\Library. Connecion Mode\obj\Debug\Library. Connecion Mode.csproj.AssemblyReference.cache
+C:\Users\victor\source\repos\Library. Connecion Mode\Library. Connecion Mode\obj\Debug\Library. Connecion Mode.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Library. Connecion Mode\Library. Connecion Mode\bin\Debug\Library.Connecion_Mode.exe.config
+C:\Users\victor\source\repos\Library. Connecion Mode\Library. Connecion Mode\bin\Debug\Library.Connecion_Mode.exe
+C:\Users\victor\source\repos\Library. Connecion Mode\Library. Connecion Mode\bin\Debug\Library.Connecion_Mode.pdb
+C:\Users\victor\source\repos\Library. Connecion Mode\Library. Connecion Mode\obj\Debug\Library.Connecion_Mode.exe
+C:\Users\victor\source\repos\Library. Connecion Mode\Library. Connecion Mode\obj\Debug\Library.Connecion_Mode.pdb

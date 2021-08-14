@@ -1,0 +1,7 @@
+C:\Users\victor\source\repos\LINQ TO SQL\LINQ TO SQL\bin\Debug\LINQ TO SQL.exe.config
+C:\Users\victor\source\repos\LINQ TO SQL\LINQ TO SQL\bin\Debug\LINQ TO SQL.exe
+C:\Users\victor\source\repos\LINQ TO SQL\LINQ TO SQL\bin\Debug\LINQ TO SQL.pdb
+C:\Users\victor\source\repos\LINQ TO SQL\LINQ TO SQL\obj\Debug\LINQ TO SQL.csproj.AssemblyReference.cache
+C:\Users\victor\source\repos\LINQ TO SQL\LINQ TO SQL\obj\Debug\LINQ TO SQL.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\LINQ TO SQL\LINQ TO SQL\obj\Debug\LINQ TO SQL.exe
+C:\Users\victor\source\repos\LINQ TO SQL\LINQ TO SQL\obj\Debug\LINQ TO SQL.pdb

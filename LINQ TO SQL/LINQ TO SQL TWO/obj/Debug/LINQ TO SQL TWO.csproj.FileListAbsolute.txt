@@ -1,0 +1,7 @@
+C:\Users\victor\source\repos\LINQ TO SQL\LINQ TO SQL TWO\bin\Debug\LINQ TO SQL TWO.exe.config
+C:\Users\victor\source\repos\LINQ TO SQL\LINQ TO SQL TWO\bin\Debug\LINQ TO SQL TWO.exe
+C:\Users\victor\source\repos\LINQ TO SQL\LINQ TO SQL TWO\bin\Debug\LINQ TO SQL TWO.pdb
+C:\Users\victor\source\repos\LINQ TO SQL\LINQ TO SQL TWO\obj\Debug\LINQ TO SQL TWO.csproj.AssemblyReference.cache
+C:\Users\victor\source\repos\LINQ TO SQL\LINQ TO SQL TWO\obj\Debug\LINQ TO SQL TWO.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\LINQ TO SQL\LINQ TO SQL TWO\obj\Debug\LINQ TO SQL TWO.exe
+C:\Users\victor\source\repos\LINQ TO SQL\LINQ TO SQL TWO\obj\Debug\LINQ TO SQL TWO.pdb

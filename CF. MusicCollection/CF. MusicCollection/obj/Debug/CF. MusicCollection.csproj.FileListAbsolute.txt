@@ -1,0 +1,24 @@
+C:\Users\victor\source\repos\CF. MusicCollection\CF. MusicCollection\obj\Debug\CF. MusicCollection.csproj.AssemblyReference.cache
+C:\Users\victor\source\repos\CF. MusicCollection\CF. MusicCollection\obj\Debug\MainWindow.g.cs
+C:\Users\victor\source\repos\CF. MusicCollection\CF. MusicCollection\obj\Debug\App.g.cs
+C:\Users\victor\source\repos\CF. MusicCollection\CF. MusicCollection\obj\Debug\CF.MusicCollection_MarkupCompile.cache
+C:\Users\victor\source\repos\CF. MusicCollection\CF. MusicCollection\obj\Debug\CF.MusicCollection_MarkupCompile.lref
+C:\Users\victor\source\repos\CF. MusicCollection\CF. MusicCollection\bin\Debug\CF.MusicCollection.exe.config
+C:\Users\victor\source\repos\CF. MusicCollection\CF. MusicCollection\bin\Debug\CF.MusicCollection.exe
+C:\Users\victor\source\repos\CF. MusicCollection\CF. MusicCollection\bin\Debug\CF.MusicCollection.pdb
+C:\Users\victor\source\repos\CF. MusicCollection\CF. MusicCollection\bin\Debug\EntityFramework.dll
+C:\Users\victor\source\repos\CF. MusicCollection\CF. MusicCollection\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\victor\source\repos\CF. MusicCollection\CF. MusicCollection\bin\Debug\EntityFramework.xml
+C:\Users\victor\source\repos\CF. MusicCollection\CF. MusicCollection\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\victor\source\repos\CF. MusicCollection\CF. MusicCollection\obj\Debug\MainWindow.baml
+C:\Users\victor\source\repos\CF. MusicCollection\CF. MusicCollection\obj\Debug\CF.MusicCollection.g.resources
+C:\Users\victor\source\repos\CF. MusicCollection\CF. MusicCollection\obj\Debug\CF.MusicCollection.Properties.Resources.resources
+C:\Users\victor\source\repos\CF. MusicCollection\CF. MusicCollection\obj\Debug\CF. MusicCollection.csproj.GenerateResource.cache
+C:\Users\victor\source\repos\CF. MusicCollection\CF. MusicCollection\obj\Debug\CF. MusicCollection.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\CF. MusicCollection\CF. MusicCollection\obj\Debug\CF. MusicCollection.csproj.CopyComplete
+C:\Users\victor\source\repos\CF. MusicCollection\CF. MusicCollection\obj\Debug\CF.MusicCollection.exe
+C:\Users\victor\source\repos\CF. MusicCollection\CF. MusicCollection\obj\Debug\CF.MusicCollection.pdb
+C:\Users\victor\source\repos\CF. MusicCollection\CF. MusicCollection\obj\Debug\CF.MusicCollection.Migrations.ImagePath.resources
+C:\Users\victor\source\repos\CF. MusicCollection\CF. MusicCollection\obj\Debug\CF.MusicCollection.Migrations.Changes.resources
+C:\Users\victor\source\repos\CF. MusicCollection\CF. MusicCollection\obj\Debug\CF.MusicCollection.Migrations.ImagePathAlbum.resources
+C:\Users\victor\source\repos\CF. MusicCollection\CF. MusicCollection\obj\Debug\CF.MusicCollection.Migrations.AlbumId.resources

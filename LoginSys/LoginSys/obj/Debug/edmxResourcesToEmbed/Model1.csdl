@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="UserLoginDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="PastRent">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserId" Type="Int32" Nullable="false" />
+    <Property Name="RoomId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Room" Relationship="Self.FK__PastRents__RoomI__70DDC3D8" FromRole="PastRents" ToRole="Rooms" />
+    <NavigationProperty Name="User" Relationship="Self.FK__PastRents__UserI__6FE99F9F" FromRole="PastRents" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="Rent">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserId" Type="Int32" Nullable="false" />
+    <Property Name="RoomId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Room" Relationship="Self.FK__Rents__RoomId__6C190EBB" FromRole="Rents" ToRole="Rooms" />
+    <NavigationProperty Name="User" Relationship="Self.FK__Rents__UserId__6B24EA82" FromRole="Rents" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="Room">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Room1" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Adress" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Square" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="City" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Duration" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="IsTaken" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="PastRents" Relationship="Self.FK__PastRents__RoomI__70DDC3D8" FromRole="Rooms" ToRole="PastRents" />
+    <NavigationProperty Name="Rents" Relationship="Self.FK__Rents__RoomId__6C190EBB" FromRole="Rooms" ToRole="Rents" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Login" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Adress" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Telephone" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="PastRents" Relationship="Self.FK__PastRents__UserI__6FE99F9F" FromRole="Users" ToRole="PastRents" />
+    <NavigationProperty Name="Rents" Relationship="Self.FK__Rents__UserId__6B24EA82" FromRole="Users" ToRole="Rents" />
+  </EntityType>
+  <Association Name="FK__PastRents__RoomI__70DDC3D8">
+    <End Role="Rooms" Type="Self.Room" Multiplicity="1" />
+    <End Role="PastRents" Type="Self.PastRent" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Rooms">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="PastRents">
+        <PropertyRef Name="RoomId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__PastRents__UserI__6FE99F9F">
+    <End Role="Users" Type="Self.User" Multiplicity="1" />
+    <End Role="PastRents" Type="Self.PastRent" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="PastRents">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Rents__RoomId__6C190EBB">
+    <End Role="Rooms" Type="Self.Room" Multiplicity="1" />
+    <End Role="Rents" Type="Self.Rent" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Rooms">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Rents">
+        <PropertyRef Name="RoomId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Rents__UserId__6B24EA82">
+    <End Role="Users" Type="Self.User" Multiplicity="1" />
+    <End Role="Rents" Type="Self.Rent" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Rents">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="UserLoginDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="PastRents" EntityType="Self.PastRent" />
+    <EntitySet Name="Rents" EntityType="Self.Rent" />
+    <EntitySet Name="Rooms" EntityType="Self.Room" />
+    <EntitySet Name="Users" EntityType="Self.User" />
+    <AssociationSet Name="FK__PastRents__RoomI__70DDC3D8" Association="Self.FK__PastRents__RoomI__70DDC3D8">
+      <End Role="Rooms" EntitySet="Rooms" />
+      <End Role="PastRents" EntitySet="PastRents" />
+    </AssociationSet>
+    <AssociationSet Name="FK__PastRents__UserI__6FE99F9F" Association="Self.FK__PastRents__UserI__6FE99F9F">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="PastRents" EntitySet="PastRents" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Rents__RoomId__6C190EBB" Association="Self.FK__Rents__RoomId__6C190EBB">
+      <End Role="Rooms" EntitySet="Rooms" />
+      <End Role="Rents" EntitySet="Rents" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Rents__UserId__6B24EA82" Association="Self.FK__Rents__UserId__6B24EA82">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Rents" EntitySet="Rents" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

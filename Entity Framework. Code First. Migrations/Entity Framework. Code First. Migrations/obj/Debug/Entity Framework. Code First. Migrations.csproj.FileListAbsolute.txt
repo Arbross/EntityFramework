@@ -1,0 +1,12 @@
+C:\Users\victor\source\repos\Entity Framework. Code First. Migrations\Entity Framework. Code First. Migrations\obj\Debug\Entity Framework. Code First. Migrations.csproj.AssemblyReference.cache
+C:\Users\victor\source\repos\Entity Framework. Code First. Migrations\Entity Framework. Code First. Migrations\obj\Debug\Entity Framework. Code First. Migrations.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Entity Framework. Code First. Migrations\Entity Framework. Code First. Migrations\bin\Debug\Entity_Framework.Code_First.Migrations.exe.config
+C:\Users\victor\source\repos\Entity Framework. Code First. Migrations\Entity Framework. Code First. Migrations\bin\Debug\Entity_Framework.Code_First.Migrations.exe
+C:\Users\victor\source\repos\Entity Framework. Code First. Migrations\Entity Framework. Code First. Migrations\bin\Debug\Entity_Framework.Code_First.Migrations.pdb
+C:\Users\victor\source\repos\Entity Framework. Code First. Migrations\Entity Framework. Code First. Migrations\bin\Debug\EntityFramework.dll
+C:\Users\victor\source\repos\Entity Framework. Code First. Migrations\Entity Framework. Code First. Migrations\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\victor\source\repos\Entity Framework. Code First. Migrations\Entity Framework. Code First. Migrations\bin\Debug\EntityFramework.xml
+C:\Users\victor\source\repos\Entity Framework. Code First. Migrations\Entity Framework. Code First. Migrations\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\victor\source\repos\Entity Framework. Code First. Migrations\Entity Framework. Code First. Migrations\obj\Debug\Entity Framework. Code First. Migrations.csproj.CopyComplete
+C:\Users\victor\source\repos\Entity Framework. Code First. Migrations\Entity Framework. Code First. Migrations\obj\Debug\Entity_Framework.Code_First.Migrations.exe
+C:\Users\victor\source\repos\Entity Framework. Code First. Migrations\Entity Framework. Code First. Migrations\obj\Debug\Entity_Framework.Code_First.Migrations.pdb

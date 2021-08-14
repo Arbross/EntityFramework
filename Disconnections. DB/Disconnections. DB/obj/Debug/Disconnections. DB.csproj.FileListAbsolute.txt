@@ -1,0 +1,17 @@
+C:\Users\victor\source\repos\Disconnections. DB\Disconnections. DB\bin\Debug\Disconnections.DB.exe.config
+C:\Users\victor\source\repos\Disconnections. DB\Disconnections. DB\bin\Debug\Disconnections.DB.exe
+C:\Users\victor\source\repos\Disconnections. DB\Disconnections. DB\bin\Debug\Disconnections.DB.pdb
+C:\Users\victor\source\repos\Disconnections. DB\Disconnections. DB\obj\Debug\MainWindow.g.cs
+C:\Users\victor\source\repos\Disconnections. DB\Disconnections. DB\obj\Debug\App.g.cs
+C:\Users\victor\source\repos\Disconnections. DB\Disconnections. DB\obj\Debug\Disconnections.DB_MarkupCompile.cache
+C:\Users\victor\source\repos\Disconnections. DB\Disconnections. DB\obj\Debug\Disconnections.DB_MarkupCompile.lref
+C:\Users\victor\source\repos\Disconnections. DB\Disconnections. DB\obj\Debug\MainWindow.baml
+C:\Users\victor\source\repos\Disconnections. DB\Disconnections. DB\obj\Debug\Disconnections.DB.g.resources
+C:\Users\victor\source\repos\Disconnections. DB\Disconnections. DB\obj\Debug\Disconnections.DB.Properties.Resources.resources
+C:\Users\victor\source\repos\Disconnections. DB\Disconnections. DB\obj\Debug\Disconnections. DB.csproj.GenerateResource.cache
+C:\Users\victor\source\repos\Disconnections. DB\Disconnections. DB\obj\Debug\Disconnections. DB.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Disconnections. DB\Disconnections. DB\obj\Debug\Disconnections.DB.exe
+C:\Users\victor\source\repos\Disconnections. DB\Disconnections. DB\obj\Debug\Disconnections.DB.pdb
+C:\Users\victor\source\repos\Disconnections. DB\Disconnections. DB\obj\Debug\Disconnections. DB.csproj.AssemblyReference.cache
+C:\Users\victor\source\repos\Disconnections. DB\Disconnections. DB\obj\Debug\WindowRegistration.g.cs
+C:\Users\victor\source\repos\Disconnections. DB\Disconnections. DB\obj\Debug\WindowRegistration.baml

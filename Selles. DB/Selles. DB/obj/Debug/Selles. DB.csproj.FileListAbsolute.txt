@@ -1,0 +1,7 @@
+C:\Users\victor\source\repos\Selles. DB\Selles. DB\obj\Debug\Selles. DB.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Selles. DB\Selles. DB\bin\Debug\Selles.DB.exe.config
+C:\Users\victor\source\repos\Selles. DB\Selles. DB\bin\Debug\Selles.DB.exe
+C:\Users\victor\source\repos\Selles. DB\Selles. DB\bin\Debug\Selles.DB.pdb
+C:\Users\victor\source\repos\Selles. DB\Selles. DB\obj\Debug\Selles.DB.exe
+C:\Users\victor\source\repos\Selles. DB\Selles. DB\obj\Debug\Selles.DB.pdb
+C:\Users\victor\source\repos\Selles. DB\Selles. DB\obj\Debug\Selles. DB.csproj.AssemblyReference.cache
